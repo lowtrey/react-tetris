@@ -3,6 +3,7 @@ import Display from './Display';
 import Stage from './Stage';
 import StartButton from './StartButton';
 import { createStage } from '../gameHelpers';
+import { StyledTetris, StyledTetrisWrapper } from './styles/StyledTetris';
 
 const Tetris = () => {
   return (
